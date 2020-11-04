@@ -1,5 +1,13 @@
-### Hi there 👋
+<h3 align="center">👋 hi there, I'm Roman.</h3>
 
+<p align="center">
+  <a href="https://roman.yankowski.eu">Blog</a> •
+  <a href="https://twitter.com/youaresoroman">Twitter</a> •
+  <a href="https://www.linkedin.com/in/youaresoroman">LinkedIn</a> •
+  <a href="https://dev.to/youaresoroman">Dev.to</a>
+</p>
+
+---
 <!--
 **youaresoroman/youaresoroman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My GitHub profile 
