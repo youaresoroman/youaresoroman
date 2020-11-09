@@ -7,7 +7,7 @@
   <a href="https://dev.to/youaresoroman">Dev.to</a>
 </p>
 
-[![HitCount](http://hits.dwyl.com/youaresoroman/{project}.svg)](http://hits.dwyl.com/youaresoroman/{project})
+[![HitCount](http://hits.dwyl.com/youaresoroman/youaresoroman.svg)](http://hits.dwyl.com/youaresoroman/youaresoroman)
 
 ---
 <!--
