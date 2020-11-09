@@ -7,6 +7,8 @@
   <a href="https://dev.to/youaresoroman">Dev.to</a>
 </p>
 
+[![HitCount](http://hits.dwyl.com/youaresoroman/{project}.svg)](http://hits.dwyl.com/youaresoroman/{project})
+
 ---
 <!--
 **youaresoroman/youaresoroman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
