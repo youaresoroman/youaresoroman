@@ -1,9 +1,9 @@
 <h3 align="center">👋 hi there, I'm Roman.</h3>
 
 <p align="center">
-  <a href="https://roman.yankowski.eu">Blog</a> •
+  <a href="https://yankowski.eu">Blog</a> •
   <a href="https://twitter.com/youaresoroman">Twitter</a> •
-  <a href="https://www.linkedin.com/in/youaresoroman">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/youaresoroman">Linkedin</a> •
   <a href="https://dev.to/youaresoroman">Dev.to</a>
 </p>
 
