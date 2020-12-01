@@ -8,6 +8,10 @@
 
 I am a fullstack developer with over 5 years development experience. In free time manage my personal projects like python static site generator ["Otsu!"](https://github.com/otsu-python/otsu). Check my github for more info.
 
+### Recent work
+* <a href="https://xn--80atbx5b3a.xn--p1ai/">Каркэш</a>
+* <a href="https://salon-mos.ru">Парвати</a>
+
 [![HitCount](http://hits.dwyl.com/otsu-python/otsu.svg)](http://hits.dwyl.com/otsu-python/otsu)
 
 ---
