@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://yankowski.eu">Personal page</a> •
   <a href="https://twitter.com/youaresoroman">Twitter</a> •
-  <a href="https://www.linkedin.com/in/youaresoroman">Linkedin</a> •
+  <a href="https://www.linkedin.com/in/youaresoroman">Linkedin</a>
 </p>
 
 I am a fullstack developer with years of development experience. In free time manage my personal projects like python static site generator ["Otsu!"](https://github.com/otsu-python/otsu). Check my github for more info.
