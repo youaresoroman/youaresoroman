@@ -12,8 +12,8 @@ I am a fullstack developer with years of development experience. In free time ma
 * <a href="https://xn--80atbx5b3a.xn--p1ai/">Каркэш</a>
 * <a href="https://salon-mos.ru">Парвати</a>
 
-[![HitCount](http://hits.dwyl.com/otsu-python/otsu.svg)](http://hits.dwyl.com/otsu-python/otsu)
-
+### Projects
+* <a href="https://github.com/youaresoroman/svelteweekend">Svelte Weekend</a>
 ---
 <!--
 **youaresoroman/youaresoroman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
