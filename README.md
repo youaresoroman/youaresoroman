@@ -29,4 +29,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youaresoroman&show_icons=true&theme=radical&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youaresoroman&show_icons=true&theme=blueberry&count_private=true)
+
+[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=youaresoroman)](https://github.com/anuraghazra/github-readme-stats)
