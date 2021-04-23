@@ -16,6 +16,6 @@ I am a fullstack developer with years of development experience. In free time ma
 * <a href="https://github.com/youaresoroman/svelteweekend">Svelte Weekend</a>
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youaresoroman&show_icons=true&theme=vue&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youaresoroman&show_icons=true&theme=default&count_private=true)
 
 [![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=youaresoroman)](https://github.com/youaresoroman)
