@@ -1,4 +1,6 @@
-<h3 align="center">👋 hi there, I'm Roman.</h3>
+<div align="center">
+   <h1>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+</div>
 
 <p align="center">
   <a href="https://yankowski.eu">Personal page</a> •
@@ -6,16 +8,22 @@
   <a href="https://www.linkedin.com/in/youaresoroman">Linkedin</a>
 </p>
 
-I am a fullstack developer with years of development experience. In free time manage my personal projects like python static site generator ["Otsu!"](https://github.com/otsu-python/otsu). Check my github for more info.
+- I am a fullstack developer with years of development experience.
+- 🔫 Svelte ⚰️ React.JS and plain Javascript
+- 💊 Cloudflare Workers 💎 IPFS
+- Always open for coop
+- 🐶 Dogs 🏎️ Drifting and 🥁 Drums
 
-### Recent work
-* <a href="https://xn--80atbx5b3a.xn--p1ai/">Каркэш</a>
-* <a href="https://salon-mos.ru">Парвати</a>
+<div align="center">
+  
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youaresoroman&show_icons=true&theme=default&count_private=true) -->
 
-### Projects
-* <a href="https://github.com/youaresoroman/svelteweekend">Svelte Weekend</a>
----
+ <img src="https://github-profile-trophy.vercel.app/?username=youaresoroman&theme=flat&no-frame=true&margin-w=10" />
+ 
+ [![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=youaresoroman)](https://github.com/youaresoroman)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youaresoroman&show_icons=true&theme=default&count_private=true)
 
-[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=youaresoroman)](https://github.com/youaresoroman)
+![](https://hit.yhype.me/github/profile?user_id=53238921)
+
+</div>
+
