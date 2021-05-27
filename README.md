@@ -20,9 +20,6 @@
 
  <img src="https://github-profile-trophy.vercel.app/?username=youaresoroman&theme=flat&no-frame=true&margin-w=10" />
  
- [![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=youaresoroman)](https://github.com/youaresoroman)
-
-
 ![](https://hit.yhype.me/github/profile?user_id=53238921)
 
 </div>
