@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="https://yankowski.eu">Personal page</a> •
+  <a href="https://yankowski.org">Personal page</a> •
   <a href="https://twitter.com/youaresoroman">Twitter</a> •
   <a href="https://www.linkedin.com/in/youaresoroman">Linkedin</a>
 </p>
