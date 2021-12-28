@@ -5,6 +5,7 @@
 <p align="center">
   <a href="https://yankowski.org">Personal page</a> •
   <a href="https://twitter.com/youaresoroman">Twitter</a> •
+   <a href="https://instagram.com/youaresoroman">Instagram</a> •
   <a href="https://www.linkedin.com/in/youaresoroman">Linkedin</a>
 </p>
 
