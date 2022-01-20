@@ -3,10 +3,10 @@
 </div>
 
 <p align="center">
-  <a href="https://yankowski.org">Personal page</a> •
-  <a href="https://twitter.com/youaresoroman">Twitter</a> •
+   <a href="https://yankowski.org">Personal page</a> •
+   <a href="https://twitter.com/youaresoroman">Twitter</a> •
    <a href="https://instagram.com/youaresoroman">Instagram</a> •
-  <a href="https://www.linkedin.com/in/youaresoroman">Linkedin</a>
+   <a href="https://www.linkedin.com/in/youaresoroman">Linkedin</a>
 </p>
 
 - I am a fullstack developer with years of development experience.
@@ -16,12 +16,15 @@
 - 🐶 Dogs 🏎️ Drifting and 🥁 Drums
 
 <div align="center">
-  
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youaresoroman&show_icons=true&theme=default&count_private=true) -->
 
- <img src="https://github-profile-trophy.vercel.app/?username=youaresoroman&theme=flat&no-frame=true&margin-w=10" />
- 
-![](https://hit.yhype.me/github/profile?user_id=53238921)
+   ![Stats](https://github-readme-stats.vercel.app/api?username=youaresoroman&count_private=true&show_icons=true&theme=gruvbox)
+</div>
+<div align="center">
+
+   ![Top
+   Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=youaresoroman&langs_count=8&layout=compact&theme=gruvbox)
 
 </div>
-
+<div align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=youaresoroman&theme=gruvbox&no-frame=true&margin-w=10" />
+</div>
