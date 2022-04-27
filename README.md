@@ -15,7 +15,7 @@ Ukraine is currently suffering from Russian aggression, please consider donating
 </p>
 
 - I am a fullstack developer with years of development experience.
-- 🔫 Svelte ⚰️ React.JS and plain Javascript
+- 🔫 Svelte ⚰️ React.JS ✨ Typescript and plain Javascript
 - 💊 Cloudflare Workers 💎 IPFS
 - Always open for coop
 - 🐶 Dogs 🏎️ Drifting and 🥁 Drums
