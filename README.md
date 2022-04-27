@@ -20,7 +20,7 @@ Ukraine is currently suffering from Russian aggression, please consider donating
 - Always open for coop
 - 🐶 Dogs 🏎️ Drifting and 🥁 Drums
 
-<!-- <div align="center">
+<div align="center">
 
    ![Stats](https://github-readme-stats.vercel.app/api?username=youaresoroman&count_private=true&show_icons=true&theme=gruvbox)
 </div>
@@ -32,4 +32,4 @@ Ukraine is currently suffering from Russian aggression, please consider donating
 </div>
 <div align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=youaresoroman&theme=gruvbox&no-frame=true&margin-w=10" />
-</div> -->
+</div>
